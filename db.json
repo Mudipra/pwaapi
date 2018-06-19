@@ -1,0 +1,24 @@
+{
+"producs": [
+[{"id":1,"name":"Rattlesnake, dusky","category":"Goldenrod"},
+{"id":2,"name":"Iguana, land","category":"Pink"},
+{"id":3,"name":"Weaver, white-browed sparrow","category":"Indigo"},
+{"id":4,"name":"Fox, savanna","category":"Aquamarine"},
+{"id":5,"name":"Japanese macaque","category":"Goldenrod"},
+{"id":6,"name":"Yellow-billed stork","category":"Puce"},
+{"id":7,"name":"Barrows goldeneye","category":"Orange"},
+{"id":8,"name":"Rattlesnake, horned","category":"Green"},
+{"id":9,"name":"Turtle, snake-necked","category":"Mauv"},
+{"id":10,"name":"Screamer, crested","category":"Fuscia"},
+{"id":11,"name":"Sandhill crane","category":"Khaki"},
+{"id":12,"name":"Starling, cape","category":"Violet"},
+{"id":13,"name":"Cormorant, neotropic","category":"Green"},
+{"id":14,"name":"Harbor seal","category":"Fuscia"},
+{"id":15,"name":"Caracal","category":"Turquoise"},
+{"id":16,"name":"Bear, black","category":"Pink"},
+{"id":17,"name":"Dove, white-winged","category":"Teal"},
+{"id":18,"name":"Booby, masked","category":"Blue"},
+{"id":19,"name":"Arctic lemming","category":"Purple"},
+{"id":20,"name":"White-faced tree rat","category":"Pink"}
+]
+}
